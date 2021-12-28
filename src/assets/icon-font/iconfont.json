@@ -1,0 +1,30 @@
+{
+  "id": "2932144",
+  "name": "治愈系",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "2076214",
+      "name": "暂停",
+      "font_class": "zanting",
+      "unicode": "e87a",
+      "unicode_decimal": 59514
+    },
+    {
+      "icon_id": "2076193",
+      "name": "喜欢2",
+      "font_class": "xihuan",
+      "unicode": "e86f",
+      "unicode_decimal": 59503
+    },
+    {
+      "icon_id": "2076218",
+      "name": "播放2",
+      "font_class": "bofang",
+      "unicode": "e87c",
+      "unicode_decimal": 59516
+    }
+  ]
+}
